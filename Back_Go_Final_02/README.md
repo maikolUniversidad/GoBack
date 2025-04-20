@@ -79,9 +79,3 @@ Esto levanta el backend en `http://localhost:8080` y Redis en `localhost:6379`.
 ## 🧠 Notas
 - Redis no está integrado aún en la lógica del servicio, pero el contenedor está preparado para que lo uses.
 - Puedes modificar `services/implementation` para usar Redis en lugar de slices en memoria.
-
----
-
-## 📫 Autor
-
-Generado por ChatGPT + Maikol :)
