@@ -1,0 +1,9 @@
+basePath: /
+host: localhost:8080
+info:
+  contact: {}
+  description: Backend para EDA demo
+  title: API - Persona y Propiedad
+  version: "1.0"
+paths: {}
+swagger: "2.0"
